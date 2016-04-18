@@ -10,8 +10,8 @@ Download
 
 Demo
 ====
- ![image](https://github.com/Drawer/raw/device-2016-04-18-190020.png)
- ![image](https://github.com/Drawer/raw/device-2016-04-18-185903.png)
+ ![image](https://github.com/chenzongwen/Drawer/raw/device-2016-04-18-190020.png)
+ ![image](https://github.com/chenzongwen/Drawer/raw/device-2016-04-18-185903.png)
  
 
 
